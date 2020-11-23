@@ -1,0 +1,27 @@
+{
+  "name": "mfa-qrcode-generator",
+  "version": "1.0.0",
+  "description": "Simple Tool to generate QRCode for MFA",
+  "main": "index.js",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenspirit/mfa-qrcode-generator.git"
+  },
+  "keywords": [
+    "MFA",
+    "QRCode"
+  ],
+  "author": "Ken Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenspirit/mfa-qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/kenspirit/mfa-qrcode-generator#readme"
+}
